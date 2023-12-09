@@ -1,11 +1,11 @@
-![Github Portfolio Banner!](https://raw.githubusercontent.com/shihab01118/shihab01118/main/images/Blue%20Pink%20Gradient%20Fashion%20Banner.jpg "Portfolio Banner")
+![Github Portfolio Banner!](https://raw.githubusercontent.com/shihab01118/shihab01118/main/images/Blue%20Pink%20Gradient%20Fashion%20Banner.jpg)
 
 ## 📈 Current Stats
 
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon" alt="Github steak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=react" alt="Github steak stats"/>
 </p>
 
 <div style="max-width: 100%; overflow: hidden;">
@@ -27,14 +27,10 @@
   </a>
 </p>
 
-## Current Overview
+## 👀 Current Overview
 
-<!-- - 🔭 I’m currently working on ... -->
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 __I’m working - On MERN stack projects to enhance skills.__
+- 🌱 __I’m learning - Advanced nodejs.__
+- 👯 __I’m looking - To collaborate on projects to intern.__
+- 💬 __Ask me about - Web Application.__
+- ⚡ __Fun fact - I am a football player and can speak three languages.__
