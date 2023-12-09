@@ -1,4 +1,4 @@
-![Github Portfolio Banner!](https://raw.githubusercontent.com/shihab01118/shihab01118/main/images/Blue%20Pink%20Gradient%20Fashion%20Banner.jpg)
+![Github Portfolio Banner!](https://raw.githubusercontent.com/shihab01118/shihab01118/main/images/Shahed%20Al%20Amin%20Shihab%20Mern%20Stack%20Developer.gif)
 
 ## 📈 Current Stats
 
