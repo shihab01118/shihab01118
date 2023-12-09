@@ -4,7 +4,11 @@
 ### 📈 Current Stats
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon&card_width=600)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon&card_width=600)
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon" alt="MarineGEO circle logo" style="width:600px"/>
+</p>
 
 
 ### Current Overview
