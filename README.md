@@ -8,9 +8,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon" alt="Github steak stats"/>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab01118&theme=midnight_purple)
 <div style="max-width: 100%; overflow: hidden;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab01118&theme=midnight_purple" alt="summary card" style="width: 100%; height: auto; display: block;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihab01118&theme=react" alt="summary card" style="width: 100%; height: auto; display: block;">
 </div>
 
 ## 💻 Technologies That I Know
