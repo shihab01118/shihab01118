@@ -2,7 +2,9 @@
 ![Github Portfolio Banner!](https://raw.githubusercontent.com/shihab01118/shihab01118/main/images/Blue%20Pink%20Gradient%20Fashion%20Banner.jpg "Portfolio Banner")
 
 ### 📈 Current Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon)](https://git.io/streak-stats)
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=neon&card_width=600)](https://git.io/streak-stats)
 
 
 ### Current Overview
