@@ -23,14 +23,14 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mui,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mui,git,npm&perline=6" />
   </a>
 </p>
 
 ## 👀 Current Overview
 
-- 🔭 __I’m working - On MERN stack projects to enhance skills.__
+- 🔭 __I’m working - at E-Desh Limited as frontend developer intern.__
 - 🌱 __I’m learning - Advanced nodejs.__
-- 👯 __I’m looking - To collaborate on projects to intern.__
+- 👯 __I’m looking - To learn advanced technologies.__
 - 💬 __Ask me about - Web Application.__
 - ⚡ __Fun fact - I am a football player and can speak three languages.__
