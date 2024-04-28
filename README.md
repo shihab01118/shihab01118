@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=react" alt="Github steak stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shihab01118&theme=react" alt="Github steak stats" style="width: 100%; max-width: 100%;"/>
 </p>
 
 <div style="max-width: 100%; overflow: hidden;">
