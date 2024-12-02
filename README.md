@@ -18,19 +18,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux&perline=8" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mui,git,npm&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongo,firebase,mui,md,vite&perline=8" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,figma,git,postman,npm,vscode,vercel&perline=8" />
   </a>
 </p>
 
 ## 👀 Current Overview
 
-- 🔭 __I’m working - at E-Desh Limited as frontend developer intern.__
-- 🌱 __I’m learning - Advanced nodejs.__
+- 🔭 __I’m working - at E-Desh Limited as Junior Frontend Developer.__
+- 🌱 __I’m learning - Next.js.__
 - 👯 __I’m looking - To learn advanced technologies.__
 - 💬 __Ask me about - Web Application.__
 - ⚡ __Fun fact - I am a football player and can speak three languages.__
