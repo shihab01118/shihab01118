@@ -34,8 +34,8 @@
 
 ## 👀 Current Overview
 
-- 🔭 __I’m working - at E-Desh Limited as Junior Frontend Developer.__
-- 🌱 __I’m learning - Next.js.__
-- 👯 __I’m looking - To learn advanced technologies.__
-- 💬 __Ask me about - Web Application.__
-- ⚡ __Fun fact - I am a football player and can speak three languages.__
+- 🔭 **I’m working - at JB Connect Ltd. as Frontend Developer.**
+- 🌱 **I’m learning - NextJs.**
+- 👯 **I’m looking - To learn advanced technologies.**
+- 💬 **Ask me about - Web Application.**
+- ⚡ **Fun fact - I am a football player and can speak three languages.**
